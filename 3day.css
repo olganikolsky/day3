@@ -1,0 +1,27 @@
+body {
+    background-color: brown;
+}
+p {
+    color: aliceblue;
+    font-size: 16px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif
+    line-height: 1.5;
+}
+
+#pram {
+    text-align: center;
+    font-size: 16px;
+    font-variant: small-caps;
+    font-style: italic;
+}
+
+hr {
+    color: aqua;
+    height: 3px;
+}
+
+.zagol {
+    color: #f6c6c6;
+    font-weight: bold;
+    text-align: center;
+}
